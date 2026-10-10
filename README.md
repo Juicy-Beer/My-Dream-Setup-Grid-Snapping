@@ -1,4 +1,4 @@
-# My Dream Setup Grid Snap
+# *My Dream Setup Grid Snap*
 
 My Dream Setup has no snapping so I went and made a mod that adds it. Hold an item and it snaps to a grid instead of moving around freely.
 
