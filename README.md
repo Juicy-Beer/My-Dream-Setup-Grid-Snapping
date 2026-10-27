@@ -10,7 +10,6 @@ Download `GridSnap.dll` from the Releases page on the right.
 
 1. Put BepInEx 5 (x64) in the game folder, next to `MDS.exe`.
 2. Drop `GridSnap.dll` into `BepInEx/plugins`.
-3. On Linux or Steam Deck, add `WINEDLLOVERRIDES="winhttp=n,b" %command%` to the game's Steam launch options, which are in **Properties**.
 
 ## Building it yourself
 
